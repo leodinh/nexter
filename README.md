@@ -28,3 +28,7 @@ npm redeploy
 or
 yarn redeploy
 ```
+## References
+Udemy Course: https://www.udemy.com/course/advanced-css-and-sass/ .
+
+Author: Jonas Schmedtmann.
